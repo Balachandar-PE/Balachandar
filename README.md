@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Balachandar-QA
+- 👀 I’m interested in perf testing/engineering new technologies/application
+- 🌱 I’m currently learning ruby and AWS devops tasks
